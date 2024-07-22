@@ -1,0 +1,2 @@
+This is a simple Rock, Paper, Scissors game written to work in the browsers console.
+index.html will load the game, asking the player for input. the results of the game are written directly in to the console.
